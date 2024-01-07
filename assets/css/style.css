@@ -1,0 +1,14 @@
+* a {
+  text-decoration: none;
+}
+
+nav {
+  background-color: red;
+  padding: 200px 0px;
+}
+nav .img {
+  width: 20%;
+}
+nav .img img {
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */

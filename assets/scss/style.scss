@@ -1,0 +1,21 @@
+@import './mixin/mixin';
+@import './variable/variable';
+
+
+*{
+    a{
+        text-decoration: none;
+    }
+}
+
+
+nav{
+    background-color: red;
+    padding: 200px 0px;
+    .img{
+        width: 20%;
+        img{
+            width: 100%;
+        }
+    }
+}
